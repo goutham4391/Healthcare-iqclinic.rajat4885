@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.icliniq.com	TRUE	/	FALSE	1999999999	AWSALB	9mP2whUmT2kgL+tV9W0FNg6ouVMnFTFiW4TtYomrTRWAa4ujKmbPn4jdDRLRYH2ASViFahyHj0SWff/KOGkMDbN7rVLp+PkDtdM2B4b1QrY/f1Dv0+QiF2osGLT5
+www.icliniq.com	TRUE	/	FALSE	1999999999	AWSALBCORS	9mP2whUmT2kgL+tV9W0FNg6ouVMnFTFiW4TtYomrTRWAa4ujKmbPn4jdDRLRYH2ASViFahyHj0SWff/KOGkMDbN7rVLp+PkDtdM2B4b1QrY/f1Dv0+QiF2osGLT5
+www.icliniq.com	TRUE	/	FALSE	1999999999	upAspeTcreantif0rgeryiOLai0dg807a13953c58de8339fa9b22b828c7008	3403e4c2fe101ced8a1df81a5f743d14
+www.icliniq.com	TRUE	/	FALSE	1999999999	SameSite	None
+
